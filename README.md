@@ -1,4 +1,4 @@
-Sunlight Congress API Client
+US Congress API Client
 ===================
 
 Library provides access to the [Sunlight Foundation's US Congress API](https://sunlightlabs.github.io/congress).  
