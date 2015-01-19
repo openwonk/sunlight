@@ -1,7 +1,8 @@
 Sunlight Congress API Client
 ===================
 
-Library provides access to the [Sunlight Foundation's US Congress API](https://sunlightlabs.github.io/congress).  *This service requires a [registration key](http://sunlightfoundation.com/api/accounts/register).*
+Library provides access to the [Sunlight Foundation's US Congress API](https://sunlightlabs.github.io/congress).  
+*This service requires a [registration key](http://sunlightfoundation.com/api/accounts/register).*
 
 ###Usage
 ```go
