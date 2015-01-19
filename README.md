@@ -14,7 +14,8 @@ import (
 )
 
 func main() {
-	// Current in development
+	// Currently under development
+	// Check back soon
 }
 ```
 <br>
